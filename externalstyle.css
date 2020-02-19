@@ -11,3 +11,11 @@ p
 body {
             background-color: rgb(220,220,220);
         }
+
+.center 
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
